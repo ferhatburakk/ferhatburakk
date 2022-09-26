@@ -37,7 +37,7 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"><img alt="firebase" src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/firebase.svg" width="40" /></a>
 <a href="https://www.heroku.com/" target="_blank"><img alt="heroku" src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/heroku.svg" width="40" /></a>
-<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img alt="flask" src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/heroku.svg" width="40" /></a>
+<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img alt="flask" src="https://commons.wikimedia.org/wiki/File:Flask_logo.svg" width="40" /></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="git" src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/git.svg" width="40" /></a>
 </p>
 
