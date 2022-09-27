@@ -36,6 +36,7 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/spring.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"><img alt="firebase" src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/firebase.svg" width="40" /></a>
+<a href="https://www.elastic.co/" target="_blank"><img alt="elasticsearch" src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/elasticsearch.svg" width="40" /></a>
 <a href="https://www.heroku.com/" target="_blank"><img alt="heroku" src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/heroku.svg" width="40" /></a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img alt="flask" src="https://github.com/ferhatburakk/ferhatburakk/blob/main/Flask_logo.svg" width="40" /></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="git" src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/git.svg" width="40" /></a>
@@ -49,7 +50,4 @@
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatburakk)](https://github.com/anuraghazra/github-readme-stats)
   
-   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ferhatburakk&theme=default&ring=4281E9&fire=4281E9&currStreakLabel=4281E9)](https://git.io/streak-stats)
-</div>
 
